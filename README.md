@@ -8,13 +8,13 @@ A Python-based intelligent chatbot capable of understanding natural language and
 - **Context Awareness:** Can handle follow-up conversations.
 - **Local Inference:** Supports Llama 3 via LM Studio for offline privacy.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python 3.12
 - TensorFlow (Keras)
 - NLTK (Natural Language Toolkit)
 - NumPy
 
-## 📦 How to Run
+##  How to Run
 1. clone the repo:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ai-chatbot-project.git](https://github.com/YOUR_USERNAME/ai-chatbot-project.git)
